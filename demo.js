@@ -141,7 +141,7 @@
             my_first_menu:['one','two','three'],
             baudRates: [2400, 9600, 19200, 38400, 57600, 115200]
         },
-        url:'https://github.com/zacSuo/ScratchSerial',
+        url:'https://github.com/Xjz0o0/Scratch_program',
         displayName: '教学平台功能测试'
     };
  
